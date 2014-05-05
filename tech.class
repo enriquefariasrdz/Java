@@ -1,0 +1,10 @@
+/**
+ * Created by enriquef on 5/5/14.
+ */
+public class tech extends hi {
+
+    @Override
+    public void Num() {
+        super.Num();
+    }
+}
